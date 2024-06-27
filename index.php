@@ -12,6 +12,7 @@
     <section id="principal">
          <?php
             echo "Bom dia!";
+            echo "jesus";
          ?>
     </section>
 </body>
