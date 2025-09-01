@@ -11,7 +11,7 @@
 <body>
     <section id="principal">
          <?php
-            echo "Bom dia!";
+            echo "Bom dia!  ffgfg";
             ecasdasd ho "jesus";
          ?>
     </section>
